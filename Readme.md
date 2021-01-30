@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Dmytro Lahodniuk](https://up.htmlacademy.ru/javascript/22/user/1447201).
-* Наставник: `Неизвестно`.
+* Наставник: [Alexander Grigoriev](https://htmlacademy.ru/profile/fuckhtml).
 
 ---
 
